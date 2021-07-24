@@ -3,12 +3,14 @@
 Lets start by making a virtual environment env<br>
 SO we followed the following steps to make it<br>
 1.Try to open cmd from a particular folder where you need to run the program<br>
-  %nbspInstall Packages(libraries)<br>
+  &nbsp Install Packages(libraries)<br>
   pip install virtualenv<br>
   pip install virtualenv env<br>
+  <br>
 2.Lets activate the env in our folder<br>
   for activating it<br>
   ....env\scripts\activate<br>
+  <br>
 3.after that open the folder in any idle<br>
   then install the following packages<br>
   pip install flask<br>
