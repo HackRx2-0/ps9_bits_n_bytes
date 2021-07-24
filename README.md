@@ -1,7 +1,7 @@
 # ps9_bits_n_bytes
 
-Lets start by making a virtual environment env
-SO we followed the following steps to make it
+#Lets start by making a virtual environment env
+#SO we followed the following steps to make it
 1.Try to open cmd from a particular folder where you need to run the program
   Install Packages(libraries)
   pip install virtualenv 
