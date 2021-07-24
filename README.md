@@ -3,7 +3,7 @@
 Lets start by making a virtual environment env<br>
 SO we followed the following steps to make it<br>
 1.Try to open cmd from a particular folder where you need to run the program<br>
-  Install Packages(libraries)<br>
+  %nbspInstall Packages(libraries)<br>
   pip install virtualenv<br>
   pip install virtualenv env<br>
 2.Lets activate the env in our folder<br>
