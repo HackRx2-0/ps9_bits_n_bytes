@@ -1,0 +1,87 @@
+
+what is Bajaj Finserv ?
+We Offer personalised Healthcare Services <br> for you and your family. With Bajaj Finserv <br>  Health, you can search for top doctors near you, book appointments, schedule medicine or vaccine reminders, store all your health records at one place and <a href="https://www.bajajfinservhealth.in/" target="_parent">more</a>.
+Can You help me ?
+what do you need : Consult a Doctor , Video Conference With a Doctor , Find Doctor near you , Looking for a specialist , Book A Lab Test , looking for better deals , Health Plans For You , Health Library
+Consult a Doctor
+Let me help choosing a right doctor for you <br> <ul><li>General physician</li><br><li>Gynaecologist</li><br><li>orthopedic</li><br><li>Dermatologist</li><br><li>ENT</li><br><li>sexologist</li><br><li>Ophthalmologist</li><br><li>paediatrician</li><br><li>urologist</li><br><li>Dentist</li><br><li>Physiotherapist</li><br><li">Psychiatrist</li></ul>
+Consult a Doctor for Cancer treatment
+Yeah sure!I think you are looking for Oncologist.<br>Can you please mention your location(City)?
+Pune
+Can you please specify your time slot?
+3:30 pm
+Sandeep Shukla-Pune (Time slot-3:30 pm to 4:30 pm)<br>Do you want to confirm?
+Yes please confirm.
+Your appointment has been sucessfully registered with Sandeep Shukla 
+No can you please suggest me some most relevant doctors 
+Yes sure!<br>Mihir Shukla (Time slot-5:30 pm to 6:30 pm)<br>Neeraj Gupta (Time slot-2:30 pm to 3:30 pm)<br>Mahendra Chopra(Time slot-9 am to 10 am)
+Book an appointment with Mihir Shukla.
+Your appointment has been sucessfully registered with Mihir Shukla.
+Can you help me with health plans?
+Yes I can help you.Can you describe your health concerns?
+I am a Diabetic patient.
+Okay.Can you please mention your age?
+I am 45 years old.
+So Bajaj Diabetic Care plan is best suited for you.<br>Do you want to continue with it(y/n)?  
+y
+Your Care plan is activated sucessfully.
+n
+You can browse for different plans <a href="https://www.bajajfinservhealth.in/our-products" target="_parent" >here</a>
+I am suffering from joint pains and bone issues
+okay......I think so orthopedic specialist is best suited for you.<br>Do you want to avail health prime benefits for your treatment?(okay/skip for now)
+okay
+Complete Health Solution is shorlisted for you to confirm please(y/n)
+skip for now
+Do you want me to book an Appoinment with the specialist?<br>Please specify the location and time slot  prefered ? 
+Pune 10 am
+Dr Shivali Gaikwad<br>time slot 10 am to 11 am<br> Do you want me to confirm?
+Please Confirm it.
+Your appointment has been sucessfully registered with Dr Shivali Gaikwad.
+{% comment %} I need to make an appointment to see the doctor.
+Which specialist are you prefering to make an appointment <br> <ul><li>General physician</li><br><li>Gynaecologist</li><br><li>orthopedic</li><br><li>Dermatologist</li><br><li>ENT</li><br><li>sexologist</li><br><li>Ophthalmologist</li><br><li>paediatrician</li><br><li>urologist</li><br><li>Dentist</li><br><li>Physiotherapist</li><br><li">Psychiatrist</li></ul>
+General physician
+Which doctors are looking for an appointment <br> <ul><li>Shrikant Kulkarni</li><br><li>Vaibhav Lunkad</li><br><li>Taruna Madan</li><br><li>Preeti Sahu</li><br><li>Shruti Goswami</li><br><li>Akansha Saxena</li><br><li>Gauri Patil</li><br><li>Gauri Abhyankar</li><li>Shika Jain</li><br><li>Umesh Chaudhari</li></ul>
+Shrikant Kulkarni
+click <a href ="https://www.bajajfinservhealth.in/doctor/pune/general-physician/dr-shrikant-kulkarni?type=econsult&source=specialities">here</a> to choose the slots available
+Vaibhav Lunkad
+click <a href ="https://www.bajajfinservhealth.in/doctor/pune/general-physician/dr-vaibhav-lunkad?type=econsult&source=specialities">here</a> to choose the slots available
+Taruna Madan
+click <a href ="https://www.bajajfinservhealth.in/doctor/pune/general-physician/dr-taruna-madan?type=econsult&source=specialities">here</a> to choose the slots available
+Preeti Sahu
+click <a href ="https://www.bajajfinservhealth.in/doctor/pune/critical-care-medicine/dr-preety-sahu?type=econsult&source=specialities">here</a> to choose the slots available
+Shruti Goswami
+click <a href ="https://www.bajajfinservhealth.in/doctor/pune/general-physician/dr-shruti-goswami?type=econsult&source=specialities">here</a> to choose the slots available
+Akansha Saxena
+click <a href ="https://www.bajajfinservhealth.in/doctor/pune/general-physician/dr-akanksha-saxena?type=econsult&source=specialities">here</a> to choose the slots available
+Gauri Patil
+click <a href ="https://www.bajajfinservhealth.in/doctor/pune/homeopath/dr-gauri-patil?type=econsult&source=specialities">here</a> to choose the slots available
+Gauri Abhyankar
+click <a href ="https://www.bajajfinservhealth.in/doctor/pune/general-physician/dr-gauri-abhyankar?type=econsult&source=specialities">here</a> to choose the slots available
+Shika Jain
+click <a href ="https://www.bajajfinservhealth.in/doctor/pune/general-physician/dr-shikha-jain-2?type=econsult&source=specialities">here</a> to choose the slots available
+Umesh Chaudhari
+click <a href ="https://www.bajajfinservhealth.in/doctor/pune/general-physician/dr-umesh-chaudhari?type=econsult&source=specialities">here</a> to choose the slots available
+Superspecialist
+Which superspecialist are you prefering to make an appointment <br> <ul><li>Endocrinologist</li><br><li>Gynaecologist</li><br><li>Diabetologist</li><br><li>Pulmonologist</li><br><li>Gastroenterologist</li><br><li>sexologist</li><br><li>Cardiologist</li><br><li>Rheumatologist</li><br><li>Oncologist</li><br><li>Nephrologist</li><br><li>Physiotherapist</li><br><li">Psychiatrist</li></ul>
+Cardiologist
+Which doctors are looking for an appointment <br> <ul><li>Dr. Vipul Verma</li><br><li>Dr. Abir Pal</li><br><li>Dr. Bhaskar Banik</li><br><li>Dr. Tandra Pramod Kumar Rao</li><br><li>Dr. Rakesh Kumar Kapoor</li><br><li>Dr. Chandra Meena</li><br><li>Gauri Patil</li><br><li>Dr. Balaji T Natarajan</li><li>Dr. Gobinda Prasad Nayak</li><br><li>Dr. SANDEEP PATHAK</li><br><li>Dr. Sivabal V</li></ul>
+Dr. Vipul Verma
+click <a href ="https://www.bajajfinservhealth.in/doctor/ghaziabad/general-physician/dr-vipul-verma?type=econsult&source=specialities">here</a> to choose the slots available
+Dr. Abir Pal
+click <a href ="https://www.bajajfinservhealth.in/doctor/kolkata/cardiologist/dr-abir-pal?type=econsult&source=specialities">here</a> to choose the slots available
+Dr. Bhaskar Banik
+click <a href ="https://www.bajajfinservhealth.in/doctor/north-24-parganas/cardiologist/dr-bhaskar-banik-2?type=econsult&source=specialities">here</a> to choose the slots available
+Dr. Tandra Pramod Kumar Rao
+click <a href ="https://www.bajajfinservhealth.in/doctor/hyderabad/cardiologist/dr-tandra-pramod-kumar-rao?type=econsult&source=specialities">here</a> to choose the slots available
+Dr. Rakesh Kumar Kapoor
+click <a href ="https://www.bajajfinservhealth.in/doctor/hisar/cardiologist/dr-rakesh-kumar-kapoor?type=econsult&source=specialities">here</a> to choose the slots available
+Dr. Chandra Meena
+click <a href ="https://www.bajajfinservhealth.in/doctor/jaipur/cardiologist/dr-chandra-meena?type=econsult&source=specialities">here</a> to choose the slots available
+Dr. Balaji T Natarajan
+click <a href ="https://www.bajajfinservhealth.in/doctor/chennai/cardiologist/dr-balaji-t-natarajan?type=econsult&source=specialities">here</a> to choose the slots available
+Dr. Gobinda Prasad Nayak
+click <a href ="https://www.bajajfinservhealth.in/doctor/bhubaneshwar/interventional-cardiology/dr-gobinda-prasad-nayak?type=econsult&source=specialities">here</a> to choose the slots available
+Dr. SANDEEP PATHAK
+click <a href ="https://www.bajajfinservhealth.in/doctor/ujjain/cardiologist/dr-sandeep-pathak?type=econsult&source=specialities">here</a> to choose the slots available
+Dr. Sivabal V
+click <a href ="https://www.bajajfinservhealth.in/doctor/thiruvanathapuram/cardiologist/dr-sivabal-v?type=econsult&source=specialities">here</a> to choose the slots available {% endcomment %}
